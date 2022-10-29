@@ -6,9 +6,5 @@
 | 10th  | 89% |
 
 ```
-Footnote	Here's a sentence with a footnote. [^1]
+currently am completing my BEcourse ................
 
-[^1]: This is the footnote.
-Heading ID	### My Great Heading {#custom-id}
-Definition List	term
-: definition
