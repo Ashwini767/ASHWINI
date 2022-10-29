@@ -2,8 +2,8 @@
 #
  BE| computer science |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| PUC | PCMB with 84%|
+| 10th  | 89% |
 Fenced Code Block	```
 {
   "firstName": "John",
