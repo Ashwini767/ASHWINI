@@ -1,6 +1,6 @@
 #**hi this is ASHWINI here
 #
- Syntax | Description |
+ BE| computer science |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
