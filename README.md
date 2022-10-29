@@ -1,15 +1,10 @@
 #**hi this is ASHWINI here
 #
- BE| computer science |
+ BE| computer science(3rd year) |
 | ----------- | ----------- |
 | PUC | PCMB with 84%|
 | 10th  | 89% |
-Fenced Code Block	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+
 ```
 Footnote	Here's a sentence with a footnote. [^1]
 
